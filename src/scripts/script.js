@@ -1,0 +1,1 @@
+document.querySelector(".add-to-cart-btn").classList.add("disabled")
